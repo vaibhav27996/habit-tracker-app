@@ -1,3 +1,42 @@
+# Habit Tracker App
+
+Here is Link - https://vaibhav27996.github.io/habit-tracker-app/
+
+*(if somehow content **is not showing** , once click on **Home link tag** in top left corner)*
+#
+
+ Language are used
+
+    * HTML
+    * CSS
+    * Js
+    * React
+    * Redux
+    
+ * **Home Page** - Home page with habit fill form.Once you fill the form habit would show below forms
+ 
+ ![Home page](https://user-images.githubusercontent.com/119880818/229344815-d2dc4d13-f4fe-4e4f-8c63-b37448d4398e.PNG)
+
+#
+
+* **Home Page with habit list** - 
+
+    * After sumbit form, the habit list will shown below like that and habits has 3 status None,Done,Not Done.
+    * Initially all habit status is **none**.
+    * If you have done habit today,**click on none button on today ,so the status will convert from none to Done**.
+    * If doesn't have to do habit today but your status is done , then you can also do change  status from done to not done
+    
+    ![Home page with habits](https://user-images.githubusercontent.com/119880818/229345452-f1f6f963-5613-4824-83a1-2aa6005fdb36.PNG)
+    
+#
+
+* **Indicating status images** - 
+
+    ![Combine Status](https://user-images.githubusercontent.com/119880818/229346332-f43bf893-45c0-407c-be10-64b03a6a3ce1.PNG)
+
+#
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
