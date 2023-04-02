@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/habit-tracker-app/static/css/main.087ff9af.css",
+    "main.js": "/habit-tracker-app/static/js/main.4ad35717.js",
+    "static/media/none.png": "/habit-tracker-app/static/media/none.f6e0b217c79a1134c153.png",
+    "static/media/done.png": "/habit-tracker-app/static/media/done.6f298cca57a5a8b36055.png",
+    "index.html": "/habit-tracker-app/index.html",
+    "main.087ff9af.css.map": "/habit-tracker-app/static/css/main.087ff9af.css.map",
+    "main.4ad35717.js.map": "/habit-tracker-app/static/js/main.4ad35717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087ff9af.css",
+    "static/js/main.4ad35717.js"
+  ]
+}
